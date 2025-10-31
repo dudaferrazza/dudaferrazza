@@ -4,7 +4,7 @@ Atualmente, sou aprendiz de Desenvolvimento de Sistemas no CentroWeg.
 
 ---
 
-### Tecnologias em Aprendizado
+## Tecnologias em Aprendizado
 <img 
     align="left" 
     alt="HTML" 
